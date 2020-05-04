@@ -25,6 +25,7 @@ use pocketmine\utils\Config;
 use pocketmine\Player;
 
 class Main extends PluginBase{
+
 	/** @var Main */
 	private static $api;
 	/** @var EconomyAPI */
